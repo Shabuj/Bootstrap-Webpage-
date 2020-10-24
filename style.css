@@ -1,0 +1,172 @@
+/*-----------------------------------------------------------------------------------
+
+	Template Name: Business Related photo
+	Template URI: http://www.businessfirm.com
+	Description: photo related template
+	Author: Suboj hossin
+	Author URI: http://www.sn.com
+	License: GNU General Public License version 3.0
+	License URI: http://www.gnu.org/licenses/gpl-3.0.html
+	Version: 1.0
+
+-----------------------------------------------------------------------------------
+
+	1. Typography
+	2. Header Area
+		2.1 Menu Area
+		2.2 Welcome Text 
+		2.3 Social Media 
+	3. Getting Started
+	4. Design Area
+	5. Community Area
+	6. Subscribe Area
+	7. Download Area
+	8. Footer Area
+
+-----------------------------------------------------------------------------------*/
+
+/************** 1. Typography ************************/
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+
+
+/**************** 2. slider content  Area ********/
+
+.slider-area{
+	margin-top: -13px;
+}
+.content{
+
+    width: 530px;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    padding-top: 83px;
+
+}
+.content h1{
+    text-transform: uppercase;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 34px;
+    margin: 8px 0px;
+
+}
+.content p{
+	
+	font-size: 18px;
+    line-height: 26px;
+    margin-bottom: 10px;
+
+}
+
+
+/****************   Services area Style  ***********************/
+
+
+.services {
+	    margin: 21px 0px;
+}
+.services > i{
+	background-color: #8DCD34;
+    font-size: 55px;
+    color: #fff;
+    height: 90px;
+    width: 90px;
+    padding: 17px 13px;
+    border-radius: 50%;
+    margin-top: 0px;
+    margin-bottom: 17px;
+    overflow: hidden;
+
+}
+
+.services h2{
+    margin-top: -9px;
+    margin-bottom: 4px;
+}
+
+.services p{
+	    font-size: 17px;
+    line-height: 25px;
+}
+
+/****************   Text area Style  ***********************/
+.text{
+    font-size: 17px;
+    line-height: 26px;
+    color: #000;
+    padding: 13px;}
+.text p{
+ font-family:arial;
+}
+
+/****************   Footer area Style  ***********************/
+.footer{
+	height: 80px;
+}
+.footer ul{}
+.footer ul li{
+	display: inline-block;
+    padding: 16px 0px;
+}
+.footer ul li a{
+
+	color: white;
+}
+.footer ul li a i{}
+.fb{
+	background: #4A5395;
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    overflow: hidden;
+    padding-top: 14px;
+    margin-right: 10px;
+    border-radius:3px;
+}
+.tw{
+   background: #6BABE4;
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    overflow: hidden;
+    padding-top: 14px;
+    margin-right: 10px;
+    border-radius:3px;
+}
+
+
+.sk{
+	background: #6BABE4;
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    overflow: hidden;
+    padding-top: 14px;
+    margin-right: 10px;
+    border-radius:3px;
+}
+
+.gp{
+	background: #8C1E1D;
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    overflow: hidden;
+    padding-top: 14px;
+    margin-right: 10px;
+    border-radius:3px;
+}
+.yt{
+	background: #A63633;
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    overflow: hidden;
+    padding-top: 14px;
+    margin-right: 10px;
+border-radius:3px;}
